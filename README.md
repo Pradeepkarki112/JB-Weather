@@ -1,10 +1,10 @@
-# Weather App in ReactJS
+# JB-Weather App in ReactJS
 
 Get API Here:
 
 https://openweathermap.org
 
-## Commands:
+## Get Started Commands:
 
 Install deps: `npm install`
 
