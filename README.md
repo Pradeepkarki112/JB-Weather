@@ -9,3 +9,9 @@ https://openweathermap.org
 Install deps: `npm install`
 
 Run: `npm start`
+
+## Live Demo:
+
+Click Here:
+
+https://pradeepkarki112.github.io/JB-Weather/
