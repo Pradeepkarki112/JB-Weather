@@ -3,7 +3,13 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url("./assets/12.jpg");
+  /* Replace with your image path */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  /* This will make the background fixed */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
