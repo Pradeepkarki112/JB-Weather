@@ -11,9 +11,8 @@ function App() {
   const [search, setSearch] = useState("");
   const [weather, setWeather] = useState({});
 
-  /*
-    Search button is pressed. Make a fetch call to the Open Weather Map API.
-  */
+  // Search button is pressed. Make a fetch call to the Open Weather Map API.
+
   const searchPressed = () => {
     fetch(`${api.base}weather?q=${search}&units=metric&APPID=${api.key}`)
       .then((res) => res.json())
